@@ -1,5 +1,5 @@
 # Reservations-Management
-Progetto d'esame di Programmazione e analisi di dati, Mod. A - UNIPI, magistrale di Informatica Umanistica, 2020
+Progetto d'esame di Programmazione e Analisi Di Dati, Mod. A - UNIPI, magistrale di Informatica Umanistica, 2020
 
 ## Il progetto
 Il programma è stato scritto interamente in Java. E' stato pensato per essere utilizzato dal proprietario/gestore di un locale per l'organizzazione di compleanni di bambini, in modo da tenere traccia delle prenotazioni (ognuna con le sue caratteristiche) che vengono effettuate.
